@@ -1,0 +1,31 @@
+{
+  //This prevents a new .NET installing each time we run c# code
+  // "dotnetAcquisitionExtension.existingDotnetPath": [
+    // {
+    //   "extensionId": "ms-dotnettools.csharp",
+    //   "path": "C:\\dotnet\\x86\\dotnet.exe"
+    // },
+    // {
+    //   "extensionId": "ms-dotnettools.csdevkit",
+    //   "path": "C:\\dotnet\\x86\\dotnet.exe"
+    // }
+  // ],
+  // "omnisharp.useGlobalMono": "never",
+  // "omnisharp.autoStart": true,
+  // "omnisharp.enableEditorConfigSupport": true,
+  // "omnisharp.useEditorFormattingSettings": true,
+  // "omnisharp.useModernNet": false,
+  // "omnisharp.sdkIncludePrereleases": true,
+  // "csharp.showOmnisharpLogOnError": true,
+  // "dotnet.server.useOmnisharp": true,
+  // "omnisharp.disableMSBuildDiagnosticWarning": true,
+  // "omnisharp.dotNetCliPaths": [
+  //   "C:\\dotnet\\x86\\dotnet.exe"
+  // ],
+  // "omnisharp.enableAsyncCompletion": true,
+  // "omnisharp.enableLspDriver": true,
+  // "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+  // "omnisharp.organizeImportsOnFormat": true,
+  // "omnisharp.sdkPath": "C:\\dotnet\\x86\\sdk\\7.0.102",
+  // "omnisharp.sdkVersion": "6"
+}
